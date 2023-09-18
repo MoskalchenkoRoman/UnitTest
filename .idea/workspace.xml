@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db67174-059d-435c-9fad-141693ab2b65" name="Changes" comment="dz1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dz2/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dz2/MotorcycleTest.java" afterDir="false" />
+    <list default="true" id="8db67174-059d-435c-9fad-141693ab2b65" name="Changes" comment="dz2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dz3/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,103 +55,102 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dz3" />
       <recent name="dz2" />
       <recent name="dz1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CarTest">
-    <configuration name="CalculatorTest.calculatingDiscount (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz3.Main" />
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz1" />
-      <option name="MAIN_CLASS_NAME" value="dz1.CalculatorTest" />
-      <option name="METHOD_NAME" value="calculatingDiscount" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz2" />
-      <option name="MAIN_CLASS_NAME" value="dz2.CarTest" />
+      <option name="PACKAGE_NAME" value="dz3" />
+      <option name="MAIN_CLASS_NAME" value="dz3.MainTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarTest.Class" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.enteringTheRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz2" />
-      <option name="MAIN_CLASS_NAME" value="dz2.CarTest" />
-      <option name="METHOD_NAME" value="Class" />
+      <option name="PACKAGE_NAME" value="dz3" />
+      <option name="MAIN_CLASS_NAME" value="dz3.MainTest" />
+      <option name="METHOD_NAME" value="enteringTheRange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorcycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.isEven (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz2" />
-      <option name="MAIN_CLASS_NAME" value="dz2.MotorcycleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="dz3" />
+      <option name="MAIN_CLASS_NAME" value="dz3.MainTest" />
+      <option name="METHOD_NAME" value="isEven" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorcycleTest.testDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.isEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz2" />
-      <option name="MAIN_CLASS_NAME" value="dz2.MotorcycleTest" />
-      <option name="METHOD_NAME" value="testDrive" />
+      <option name="PACKAGE_NAME" value="dz3" />
+      <option name="MAIN_CLASS_NAME" value="dz3.MainTest" />
+      <option name="METHOD_NAME" value="isEven(int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CarTest" />
-      <item itemvalue="JUnit.CarTest.Class" />
-      <item itemvalue="JUnit.MotorcycleTest" />
-      <item itemvalue="JUnit.MotorcycleTest.testDrive" />
-      <item itemvalue="JUnit.CalculatorTest.calculatingDiscount (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.enteringTheRange" />
+      <item itemvalue="JUnit.MainTest.isEven" />
+      <item itemvalue="JUnit.MainTest.isEven (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CarTest" />
-        <item itemvalue="JUnit.CarTest.Class" />
-        <item itemvalue="JUnit.MotorcycleTest" />
-        <item itemvalue="JUnit.MotorcycleTest.testDrive" />
-        <item itemvalue="JUnit.CalculatorTest.calculatingDiscount (1)" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.isEven (1)" />
+        <item itemvalue="JUnit.MainTest.enteringTheRange" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.isEven" />
       </list>
     </recent_temporary>
   </component>
@@ -175,11 +170,27 @@
       <option name="project" value="LOCAL" />
       <updated>1694711412261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dz2">
+      <created>1695018994477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695018994477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
+    <MESSAGE value="dz2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTest$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1695023452628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dz3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/UnitTest$MainTest_isEven__1_.ic" NAME="MainTest.isEven (1) Coverage Results" MODIFIED="1695022876262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>dz3.*</FILTER>
+    </SUITE>
   </component>
 </project>
