@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8db67174-059d-435c-9fad-141693ab2b65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dz1/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="8db67174-059d-435c-9fad-141693ab2b65" name="Changes" comment="dz1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dz2/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dz2/MotorcycleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,67 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dz2" />
       <recent name="dz1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.calculatingDiscount (1)">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.Calculator" />
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz1.CalculatorTest" />
-      <module name="UnitTest" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dz1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="dz1" />
-      <option name="MAIN_CLASS_NAME" value="dz1.CalculatorTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CarTest">
     <configuration name="CalculatorTest.calculatingDiscount (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
@@ -124,36 +80,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.calculatingDiscount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz1.*" />
+          <option name="PATTERN" value="dz2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dz1" />
-      <option name="MAIN_CLASS_NAME" value="dz1.CalculatorTest" />
-      <option name="METHOD_NAME" value="calculatingDiscount(double,int)" />
+      <option name="PACKAGE_NAME" value="dz2" />
+      <option name="MAIN_CLASS_NAME" value="dz2.CarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.Class" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dz2" />
+      <option name="MAIN_CLASS_NAME" value="dz2.CarTest" />
+      <option name="METHOD_NAME" value="Class" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorcycleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dz2" />
+      <option name="MAIN_CLASS_NAME" value="dz2.MotorcycleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorcycleTest.testDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dz2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dz2" />
+      <option name="MAIN_CLASS_NAME" value="dz2.MotorcycleTest" />
+      <option name="METHOD_NAME" value="testDrive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.CalculatorTest" />
+      <item itemvalue="JUnit.CarTest" />
+      <item itemvalue="JUnit.CarTest.Class" />
+      <item itemvalue="JUnit.MotorcycleTest" />
+      <item itemvalue="JUnit.MotorcycleTest.testDrive" />
       <item itemvalue="JUnit.CalculatorTest.calculatingDiscount (1)" />
-      <item itemvalue="JUnit.CalculatorTest.calculatingDiscount" />
-      <item itemvalue="JUnit.CalculatorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CarTest" />
+        <item itemvalue="JUnit.CarTest.Class" />
+        <item itemvalue="JUnit.MotorcycleTest" />
+        <item itemvalue="JUnit.MotorcycleTest.testDrive" />
         <item itemvalue="JUnit.CalculatorTest.calculatingDiscount (1)" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.calculatingDiscount" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +168,18 @@
       <option name="presentableId" value="Default" />
       <updated>1694708856074</updated>
     </task>
+    <task id="LOCAL-00001" summary="dz1">
+      <created>1694711412261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694711412261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz1" />
   </component>
 </project>
